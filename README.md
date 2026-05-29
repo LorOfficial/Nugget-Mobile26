@@ -30,8 +30,16 @@ You should only have to do this once unless you lose the file and delete the app
 2. Allow the app add the `VPN` 
 3. Enable it and run `Nugget`
 # Credits
-• [khanhduytran0](https://github.com/khanhduytran0)
+• [YangJiiii](https://github.com/YangJiiii) EnsWilde
+
+• [leminlimez](https://github.com/leminlimez/Nugget-Mobile/commits?author=leminlimez) Original dev
+
+• [khanhduytran0](https://github.com/khanhduytran0) for bookrestore
+
 • [pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
+
 • [disfordottie](https://x.com/disfordottie) for some global flags features
+
 • [SideStore](sidestore.io) for em_proxy and minixumer
+
 • [libimobiledevice](https://libimobiledevice.org) for the restore library
