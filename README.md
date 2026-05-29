@@ -4,11 +4,9 @@ As you know, Nugget mobile is outdated so only works on iOS 18 but, with this fa
 # Presentation
 Unlock your device's full potential! Should work on all versions iOS 18.0 - 26.2 developer beta 1
 
-This will not work on iOS 26.2 beta 2 or newer. Please do not make issues about this, it will not be fixed. You will have to use the pc version of Nugget unless a fix comes in the future.
+This will not work on iOS 26.2 beta 2 or newer. Please do not make issues about this, it will not be fixed. You will have to use the [pc version of Nugget](https://github.com/leminlimez/Nugget) unless a fix comes in the future.
 
 A `.mobiledevicepairing` file and `localdevvpn` are required in order to use this. Read the sections below to see how to get those.
-
-If you are having issues with minimuxer, see the Solving Minimuxer Issues thread.
 
 This uses the bookrestore exploit to write to files outside of the intended restore location, like mobilegestalt.
 
@@ -31,3 +29,5 @@ You should only have to do this once unless you lose the file and delete the app
 1. Download [Localdevvpn](https://apps.apple.com/us/app/localdevvpn/id6755608044) on iOS App Store
 2. Allow the app add the `VPN` 
 3. Enable it and run `Nugget`
+# Credits
+
