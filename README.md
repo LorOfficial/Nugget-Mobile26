@@ -14,3 +14,15 @@ This uses the bookrestore exploit to write to files outside of the intended rest
 
 Note: I am not responsible if your device bootloops, use this software with caution. Please back up your data before using!
 
+# Getting your mobiledevicepairing file
+Getting Your mobiledevicepairing File
+
+To get the pairing file, use the following steps:
+
+Download idevicepair for your system from here: https://github.com/jkcoxson/idevice_pair/releases/tag/0.1.13
+
+Note: On mac or linux, you may have to run the terminal command chmod +x ./idevicepair in the same directory.
+Run the program by either double clicking it or using terminal/powershell
+Share the .mobiledevicepairing file to your iOS device
+Open the app and select the pairing file
+You should only have to do this once unless you lose the file and delete the app's data.
