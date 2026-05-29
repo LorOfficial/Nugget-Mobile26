@@ -13,3 +13,4 @@ If you are having issues with minimuxer, see the Solving Minimuxer Issues thread
 This uses the bookrestore exploit to write to files outside of the intended restore location, like mobilegestalt.
 
 Note: I am not responsible if your device bootloops, use this software with caution. Please back up your data before using!
+![Logo](assets/image.png)
