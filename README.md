@@ -19,7 +19,7 @@ Getting Your mobiledevicepairing File
 
 To get the pairing file, use the following steps:
 
-Download idevicepair for your system from here: https://github.com/jkcoxson/idevice_pair/releases/tag/0.1.13
+Download `idevicepair` for your system from here: https://github.com/jkcoxson/idevice_pair/releases/tag/0.1.13
 
 Note: On mac or linux, you may have to run the terminal command chmod +x ./idevicepair in the same directory.
 Run the program by either double clicking it or using terminal/powershell
