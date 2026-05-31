@@ -10,7 +10,7 @@ A `.mobiledevicepairing` file and `localdevvpn` are required in order to use thi
 
 This uses the bookrestore exploit to write to files outside of the intended restore location, like mobilegestalt.
 
-> [!NOTE]
+> [!WARNING]
 > **I am not responsible if your device bootloops, use this software with caution. Please back up your data before using!**
 
 # Getting your mobiledevicepairing file
